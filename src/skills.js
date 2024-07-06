@@ -19,4 +19,4 @@ const skills=[
       <ul>{skillsitems}</ul>
       
     )
-  }// skills section
+  }// skills sectiond
